@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#virtuaaliympäristöt
+env/
+venv/
+
+sovellus/
+*.log
+*.tmp
+
+*.DS_Store
+
+*.env
